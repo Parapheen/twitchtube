@@ -4,3 +4,6 @@ config.py
 clips/
 *.mp3
 *.mp4
+__pycache__
+*.m4a
+credentials/
