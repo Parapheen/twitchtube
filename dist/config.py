@@ -5,8 +5,8 @@ import pathlib
 # If you have a powerful enough computer you may set it to 1080p60 
 
 # Secrets
-CLIENT_ID = ''
-OAUTH_TOKEN = ''
+CLIENT_ID = 'dasigjm75wwp0qvm3mcp85oudn2jic'
+OAUTH_TOKEN = 'dlzehhtjn4y7oftvxm748813t6veo8'
 
 # Paths
 PATH = str(pathlib.Path().absolute())
@@ -14,7 +14,7 @@ CLIP_PATH = PATH + '/clips/{}/{}'
 
 
 # Video
-GAMES = ['Rust', 'Team Fortress 2']
+GAMES = ['Dota 2']
 VIDEO_LENGTH = 10.5 # in minutes (doesn't always work for some reason)
 FRAMES = 30 # Frames per second 30 or 60
 RESOLUTION = (720, 1280) # (height, width) for 1080p: (1080, 1920)

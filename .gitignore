@@ -1,0 +1,6 @@
+venv/
+client_secret.json
+config.py
+clips/
+*.mp3
+*.mp4
